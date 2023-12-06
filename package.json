@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "Personal Website V1",
   "version": "1.0.0",
   "author": "Bharath Raigari <beingraigari@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://bharathraigari.github.io"
+    "url": "https://beingraigari.github.io"
   },
   "keywords": [
     "gatsby"
