@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Bharath Raigari',
     description:
-      'Bharath Raigari is a DevOps and SRE enthusiast, based in India, who loves exploring new technologies and contributing to the open source.',
+      'Bharath Raigari is a Software Developer, based in India, who loves exploring new technologies and contributing to the open source.',
     siteUrl: 'https://bharathraigari.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@BRaigari06',
