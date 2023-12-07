@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://beingraigari.github.io" target="_blank">
-    <img src="[![pages-build-deployment](https://github.com/beingraigari/beingraigari.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/beingraigari/beingraigari.github.io/actions/workflows/pages/pages-build-deployment)" alt="GitHub Pages Status" />
+    <img src="https://github.com/beingraigari/beingraigari.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages" alt="Deployed on GitHub Pages" />
   </a>
 </p>
 
-![demo](https://beingraigari.github.io)
+![Click here for a demo](https://beingraigari.github.io)
 
 ## 🚨 Forking this repo (please read!)
 
